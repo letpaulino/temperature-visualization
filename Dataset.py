@@ -1,6 +1,3 @@
-# Dataset Class
-#- This class encapsulate the info associated to the path of each dataset od interest
-
 from enum import Enum
 
 class Dataset(Enum):
